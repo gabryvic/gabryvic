@@ -1,4 +1,4 @@
-oii! eu sou a gaby ☆ 
+<div> <img src="![meu banner do linkedin](https://user-images.githubusercontent.com/108838460/221684141-709359a5-237d-49ee-8a0d-1d12b01fa6ce.png)" target="_blank"> </div>
 
 
 - ☁️ Desenvolvedora front-end
@@ -6,13 +6,9 @@ oii! eu sou a gaby ☆
 - ☁️ Apaixonada por design gráfico/web 
 - ☁️ Pronomes: ela/dela 
 
+
 ![Gaby GitHub stats](https://github-readme-stats.vercel.app/api?username=gabryvic&show_icons=true&theme=dark)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gaby-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gaby-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-</div>
   
   ##
  
