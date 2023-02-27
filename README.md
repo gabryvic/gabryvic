@@ -1,10 +1,16 @@
-<div> <img src="![meu banner do linkedin](https://user-images.githubusercontent.com/108838460/221684141-709359a5-237d-49ee-8a0d-1d12b01fa6ce.png)" target="_blank"> </div>
 
 
+
+![meu banner do linkedin (2)](https://user-images.githubusercontent.com/108838460/221687220-1bc312f2-46b9-4e2c-bb77-57ff074b5d5a.png)
+
+
+
+- ☁️ Pronomes: ela/dela 
 - ☁️ Desenvolvedora front-end
 - ☁️ Curso Técnico de 3 anos em DS
 - ☁️ Apaixonada por design gráfico/web 
-- ☁️ Pronomes: ela/dela 
+
+
 
 
 ![Gaby GitHub stats](https://github-readme-stats.vercel.app/api?username=gabryvic&show_icons=true&theme=dark)
