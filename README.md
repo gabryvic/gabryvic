@@ -1,4 +1,4 @@
-olá! eu sou a gaby ☆ 
+Oie! eu sou a gaby ☆ 
 
 
 - ☁️ Desenvolvedora front-end
